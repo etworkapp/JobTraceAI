@@ -4,42 +4,32 @@ An intelligent, full-featured Job Search Command Center and Applicant Tracking S
 
 ---
 
-## Application Screenshots & Visual Tour
+## Core Modules & Interface Highlights
 
-Here is a visual tour of the primary modules within **JobTraceAI**:
+Here is an overview of the primary modules within **JobTraceAI**:
 
 ### 1. Interactive Pipeline Board (Kanban View)
-Visual stage-by-stage pipeline tracking applications from saved wishlist to offer extended, complete with AI match ratings, compensation badges, and upcoming milestone dates.
-
-![Pipeline Board](public/screenshots/pipeline-board.png)
+Visual stage-by-stage pipeline tracking applications from saved wishlist to offer extended, complete with AI match ratings, compensation badges, and upcoming milestone dates. Includes 6 standard recruiting stages: `Wishlist`, `Applied`, `Screening`, `Interviewing`, `Offer`, and `Archived`.
 
 ---
 
 ### 2. High-Density Table List View
 Compact and filterable data grid for rapid screening, sorting by company, match percentage, salary range, and upcoming milestones with direct inline stage updates.
 
-![Table List View](public/screenshots/table-view.png)
-
 ---
 
 ### 3. Application Milestones & Smart Follow-Up Radar
-Chronological timeline mapping upcoming interview rounds with a proactive smart radar flagging applications with no updates in 5+ days and one-click AI check-in draft generators. Includes calendar (.ICS) export.
-
-![Timeline and Follow-Up Radar](public/screenshots/timeline-radar.png)
+Chronological timeline mapping upcoming interview rounds with a proactive smart radar flagging applications with no updates in 5+ days and one-click AI check-in draft generators. Includes one-click `.ICS` calendar export.
 
 ---
 
 ### 4. Offer Benchmark & AI Negotiation Strategist
-Comprehensive total compensation (TC) calculator comparing base pay, bonuses, stock/equity vesting, and sign-on incentives across competing offers alongside AI-driven counter-offer leverage insights.
-
-![Offer Benchmark and Negotiation](public/screenshots/offer-benchmark.png)
+Comprehensive total compensation (TC) calculator comparing base pay, bonuses, stock/equity vesting, and sign-on incentives across competing offers alongside AI-driven counter-offer leverage insights and scripts.
 
 ---
 
 ### 5. Analytics & Conversion Funnel (Funnel & Insights)
 Real-time recruitment analytics tracking response rate, interview conversion rates, full-stage conversion funnel drop-offs, and workplace preferences.
-
-![Funnel and Insights Analytics](public/screenshots/funnel-analytics.png)
 
 ---
 
