@@ -4,6 +4,45 @@ An intelligent, full-featured Job Search Command Center and Applicant Tracking S
 
 ---
 
+## Application Screenshots & Visual Tour
+
+Here is a visual tour of the primary modules within **JobTraceAI**:
+
+### 1. Interactive Pipeline Board (Kanban View)
+Visual stage-by-stage pipeline tracking applications from saved wishlist to offer extended, complete with AI match ratings, compensation badges, and upcoming milestone dates.
+
+![Pipeline Board](Screenshot%202026-09-14%20at%2010.43.35%E2%80%AFPM.png)
+
+---
+
+### 2. High-Density Table List View
+Compact and filterable data grid for rapid screening, sorting by company, match percentage, salary range, and upcoming milestones with direct inline stage updates.
+
+![Table List View](Screenshot%202026-09-14%20at%2010.43.55%E2%80%AFPM.png)
+
+---
+
+### 3. Application Milestones & Smart Follow-Up Radar
+Chronological timeline mapping upcoming interview rounds with a proactive smart radar flagging applications with no updates in 5+ days and one-click AI check-in draft generators. Includes calendar (.ICS) export.
+
+![Timeline and Follow-Up Radar](Screenshot%202026-09-14%20at%2010.44.04%E2%80%AFPM.png)
+
+---
+
+### 4. Offer Benchmark & AI Negotiation Strategist
+Comprehensive total compensation (TC) calculator comparing base pay, bonuses, stock/equity vesting, and sign-on incentives across competing offers alongside AI-driven counter-offer leverage insights.
+
+![Offer Benchmark and Negotiation](Screenshot%202026-09-14%20at%2010.44.12%E2%80%AFPM.png)
+
+---
+
+### 5. Analytics & Conversion Funnel (Funnel & Insights)
+Real-time recruitment analytics tracking response rate, interview conversion rates, full-stage conversion funnel drop-offs, and workplace preferences.
+
+![Funnel and Insights Analytics](Screenshot%202026-09-14%20at%2010.44.20%E2%80%AFPM.png)
+
+---
+
 ## Key Features
 
 A detailed, comprehensive breakdown of every feature, algorithm, and user workflow is documented in [FEATURES.md](./FEATURES.md).
