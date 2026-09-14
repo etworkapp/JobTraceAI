@@ -1,0 +1,6 @@
+{
+  "name": "Job Application Tracker + AI Assistant",
+  "description": "Complete job application tracking dashboard with an AI assistant for job description analysis, resume tailoring, cover letter drafting, and interview coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
