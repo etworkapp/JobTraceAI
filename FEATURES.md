@@ -21,7 +21,7 @@ This document provides an exhaustive, in-depth reference of all features, capabi
 The application offers five tailored viewing modes suited to different workflow needs throughout the job search cycle.
 
 ### 1.1 Kanban Pipeline Board
-![Kanban Pipeline Board](Screenshot%202026-09-14%20at%2010.43.35%E2%80%AFPM.png)
+![Kanban Pipeline Board](public/screenshots/pipeline-board.png)
 
 - **6-Stage Standardized Recruiting Lifecycle**:
   1. **Wishlist & Saved**: Roles you are researching, tracking, or planning to apply to.
@@ -39,7 +39,7 @@ The application offers five tailored viewing modes suited to different workflow 
   - Urgency indicators for upcoming interview deadlines or offer expiration dates.
 
 ### 1.2 Interactive Data Table (List View)
-![Table List View](Screenshot%202026-09-14%20at%2010.43.55%E2%80%AFPM.png)
+![Table List View](public/screenshots/table-view.png)
 
 - High-density view optimized for scanning dozens of job applications simultaneously.
 - **Dynamic Sorting**: Sort ascending or descending by Company Name, Role, Date Applied, Salary, Match Score, or Current Stage.
@@ -48,7 +48,7 @@ The application offers five tailored viewing modes suited to different workflow 
 - **Quick Links**: One-click jump to the original job posting URL or direct note previews.
 
 ### 1.3 Timeline & Schedule View
-![Timeline & Smart Follow-Up Radar](Screenshot%202026-09-14%20at%2010.44.04%E2%80%AFPM.png)
+![Timeline & Smart Follow-Up Radar](public/screenshots/timeline-radar.png)
 
 - A chronological timeline mapping out past interactions and upcoming milestones.
 - Groups interviews and follow-ups by date (`Upcoming`, `This Week`, `Later`, `Completed`).
@@ -149,7 +149,7 @@ All AI capabilities use Google's official `@google/genai` TypeScript SDK and are
 ---
 
 ## 5. Offer Benchmark & Compensation Matrix
-![Offer Comparison & Negotiation Strategist](Screenshot%202026-09-14%20at%2010.44.12%E2%80%AFPM.png)
+![Offer Comparison & Negotiation Strategist](public/screenshots/offer-benchmark.png)
 
 When you reach the offer stage, evaluating competing packages requires looking beyond base salary.
 
@@ -182,7 +182,7 @@ When you reach the offer stage, evaluating competing packages requires looking b
 ---
 
 ## 6. Analytics & Conversion Funnel
-![Analytics & Conversion Funnel](Screenshot%202026-09-14%20at%2010.44.20%E2%80%AFPM.png)
+![Analytics & Conversion Funnel](public/screenshots/funnel-analytics.png)
 
 The built-in analytics dashboard provides visibility into your job hunt efficiency:
 
